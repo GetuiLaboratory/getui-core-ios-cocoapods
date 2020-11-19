@@ -1,9 +1,9 @@
-# GetuiBXSDK
+# GetuiCore
 
-[![CI Status](https://img.shields.io/travis/aklee/GetuiBXSDK.svg?style=flat)](https://travis-ci.org/aklee/GetuiBXSDK)
-[![Version](https://img.shields.io/cocoapods/v/GetuiBXSDK.svg?style=flat)](https://cocoapods.org/pods/GetuiBXSDK)
-[![License](https://img.shields.io/cocoapods/l/GetuiBXSDK.svg?style=flat)](https://cocoapods.org/pods/GetuiBXSDK)
-[![Platform](https://img.shields.io/cocoapods/p/GetuiBXSDK.svg?style=flat)](https://cocoapods.org/pods/GetuiBXSDK)
+[![CI Status](https://img.shields.io/travis/aklee/GetuiCore.svg?style=flat)](https://travis-ci.org/aklee/GetuiCore)
+[![Version](https://img.shields.io/cocoapods/v/GetuiCore.svg?style=flat)](https://cocoapods.org/pods/GetuiCore)
+[![License](https://img.shields.io/cocoapods/l/GetuiCore.svg?style=flat)](https://cocoapods.org/pods/GetuiCore)
+[![Platform](https://img.shields.io/cocoapods/p/GetuiCore.svg?style=flat)](https://cocoapods.org/pods/GetuiCore)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-GetuiBXSDK is available through [CocoaPods](https://cocoapods.org). To install
+GetuiCore is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'GetuiBXSDK'
+pod 'GetuiCore'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ aklee, linwt@getui.com
 
 ## License
 
-GetuiBXSDK is available under the MIT license. See the LICENSE file for more info.
+GetuiCore is available under the MIT license. See the LICENSE file for more info.
